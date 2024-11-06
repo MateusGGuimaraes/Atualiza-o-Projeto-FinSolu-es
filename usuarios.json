@@ -1,0 +1,50 @@
+[
+    {
+        "username": "teste2",
+        "cpf": "321",
+        "idade": "02/02/2002",
+        "genero": "F",
+        "email": "2@teste.com",
+        "password": "222",
+        "investimentos": [
+            {
+                "tipo": "Tesouro Direto Selic",
+                "valor_investido": 900.0,
+                "periodo": 2,
+                "valor_futuro": 1144.130625
+            }
+        ]
+    },
+    {
+        "username": "teste3",
+        "cpf": "333",
+        "idade": "03/03/2003",
+        "genero": "M",
+        "email": "3@teste.com",
+        "password": "123"
+    },
+    {
+        "username": "Gustavo",
+        "cpf": "13722629462",
+        "idade": "27/05/2002",
+        "genero": "M",
+        "email": "gusrqueque@gmail.com",
+        "password": "123"
+    },
+    {
+        "username": "",
+        "cpf": "",
+        "idade": "",
+        "genero": "",
+        "email": "",
+        "password": ""
+    },
+    {
+        "username": "teste1",
+        "cpf": "aadasdasfaderafasr",
+        "idade": "asdfasdada",
+        "genero": "D",
+        "email": "adsasdadas",
+        "password": "dadsaas"
+    }
+]
